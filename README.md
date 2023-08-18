@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rishilahoti
 - 👀 I’m interested in coding, gaming and tech
 - 🌱 I’m currently learning HTML, Python, CSS, JS etc..(according to time)
-- 📫 How to reach me : 
-- 📫Instagram:https://www.instagram.com/rishiilahoti/ 
+- 📫 How to reach me :  
 - 📫Linkedin: https://www.linkedin.com/in/rishi-lahoti-665889166/
 - 📫Twitter: https://twitter.com/rishii_lahoti
 <!---
