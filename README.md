@@ -7,7 +7,7 @@
 
 - 🌐 Web development,UI/UX and Graphic Design are my passion in the tech realm.
 - 🚀 DevOps is my newest obsession-trying to learn and explore in the AWS and Google Cloud.
--🎯 Looking to move in AI/ML field with hands on project.
+- 🎯 Looking to move in AI/ML field with hands on project.
 - 💡 Practical learner who loves hands-on experimentation and embraces new challenges.
 - 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
 - 🤝 Multitasking- skilled at handling multiple responsibilities simultaneously.
