@@ -165,7 +165,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
   <table>
     <tr>
       <td>
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="	https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
       </td>
       <td>
         <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
