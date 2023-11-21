@@ -130,7 +130,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 <div align="center">  
   <table>
         <td>
-      <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="40" /></a>  
+      <a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="40" /></a>  
     </td>
      <td>
       <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
