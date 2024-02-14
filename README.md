@@ -188,10 +188,14 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 		<td><a><img src="https://github-readme-streak-stats-two-beige.vercel.app?user=rishilahoti&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&sideLabels=f1916d&fire=f1916d&currStreakLabel=f1916d&dates=ffffff"></a></td>
 		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=rishilahoti&theme=dracula"></a></td>
 	</tr>
+</table>
+<div align="center">
+	<table>
 	<tr>
 		<td><a><img src="https://github-readme-stats.vercel.app/api?username=rishilahoti&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
 	</tr>
 	</table>
+	</div>
 <!-- ------------------------------------------------------------------------------------ -->
 
 <!-- View count div -->
