@@ -8,14 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3000&&pause=50&color=f1916d&background=2A2E3425&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Freelancer;UI/UX+and+Graphic+Designer)](https://git.io/typing-svg)
 </div>
 
-- 🌐 Web development, UI/UX, and Graphic Design are my passions in the tech realm.
-- 🚀 DevOps is my newest obsession-trying to learn and explore in the AWS and Google Cloud.
-- 🎯 Looking to work on large-scale web projects.
-- 💡 Practical learner who loves hands-on experimentation and embraces new challenges.
-- 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
-- 🤝 Multitasking- skilled at handling multiple responsibilities simultaneously.
-- 💼 I want to collaborate on exciting projects and create great stuff.
-
 I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and the exciting world of AI. Let's connect and dive into the possibilities!
 
 <!-- Connect with me div -->
