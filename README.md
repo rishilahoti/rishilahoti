@@ -187,10 +187,11 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 <div align="center">
 	<table>
 	<tr>
-		<td><a><img src="github-readme--seven.vercel.app/api?username=rishilahoti&show_icons=true&locale=en&count_private=true"></a></td>
+		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=rishilahoti&show_icons=true&locale=en&count_private=true"></a></td>
 	</tr>
 	</table>
 	</div>
+ 
 <!-- ------------------------------------------------------------------------------------ -->
 
 <!-- View count div -->
