@@ -187,7 +187,7 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 <div align="center">
 	<table>
 	<tr>
-		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=rishilahoti&theme=dracula&show_icons=true&hide_border=false&count_private=tru"></a></td>
+		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=rishilahoti&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
 	</tr>
 	</table>
 	</div>
