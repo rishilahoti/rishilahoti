@@ -8,8 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3000&&pause=50&color=f1916d&background=2A2E3425&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Freelancer;UI/UX+and+Graphic+Designer)](https://git.io/typing-svg)
 </div>
 
-I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and the exciting world of AI. Let's connect and dive into the possibilities!
-
 <!-- Connect with me div -->
 <div>
   <h1 align="center">Connect with me</h1>
