@@ -38,13 +38,13 @@
 		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=rishilahoti&theme=dracula"></a></td>
 	</tr>
 </table>
-<div align="center">
+<!-- <div align="center">
 	<table>
 	<tr>
 		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=rishilahoti&include_all_commits=true&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
 	</tr>
 	</table>
-	</div>
+	</div> -->
  
 <!-- ------------------------------------------------------------------------------------ -->
 
