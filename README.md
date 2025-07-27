@@ -35,9 +35,9 @@
 
 </div>
 <h1 align="center">GitHub Statistics</h1>
-<table>
+<table align="center">
 	<tr>
-		<td colspan = "2" align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=rishilahoti&theme=dracula&no-frame=true&no-bg=false&rank=-?"></a></td>
+		<td colspan="2" align="right"><a><img src="https://github-profile-trophy.vercel.app/?username=rishilahoti&theme=dracula&no-frame=true&no-bg=false&rank=-?"></a></td>
 	</tr>
 	<tr>
 		<td><a><img src="https://github-readme-streak-stats-two-beige.vercel.app?user=rishilahoti&theme=jolly&hide_border=true&stroke=f1916d&ring=bd83b8&sideLabels=f1916d&fire=f1916d&currStreakLabel=f1916d&dates=ffffff"></a></td>
