@@ -50,7 +50,7 @@
 <div align="center">
 	<table>
 	<tr>
-		<td><a><img src="https://github-contributor-stats.vercel.app/api?username=rishilahoti&limit=5&theme=jolly&combine_all_yearly_contributions=true"></a></td>
+		<td><a><img src="https://github-contributor-stats.vercel.app/api?username=rishilahoti&limit=5&theme=jolly&combine_all_yearly_contributions=true" width="300"></a></td>
 <!-- 		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=rishilahoti&include_all_commits=true&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td> -->
 	</tr>
 	</table>
