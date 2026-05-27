@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="800" height="2200" viewBox="0 0 800 2200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject x="0" y="0" width="800" height="2200">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width:800px;min-height:2200px;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:800px;min-height:2200px;background-color:white;">
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&amp;family=JetBrains+Mono:wght@400;500&amp;family=Syne:wght@400;500;700&amp;display=swap');
