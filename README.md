@@ -1,4 +1,4 @@
-![Portfolio](./rishi_portfolio.svg)
+Hi There!
 # Connect
 
 | Platform | Link |
