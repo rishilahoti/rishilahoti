@@ -1,5 +1,14 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source
+    srcset="https://readme-daily-quotes.vercel.app/api?theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-daily-quotes.vercel.app/api?theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
+</picture>
 
 # Connect
 
